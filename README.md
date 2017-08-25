@@ -9,7 +9,7 @@
 
 - `NMF_algorithm` stores the code of Semi-NMF and Convex-NMF.
 
-- `code_for_pre-processing_dataset` stores the pre-processed datasets of Amazon Review, Yelp Review and Maluuba Frames, as well as codes for encoding them as vector representations
+- `code_for_pre-processing_dataset` stores the pre-processed datasets of Amazon Review, Yelp Review and Maluuba Frames, as well as codes for encoding them as vector representations.
 
 ### How to run
 
