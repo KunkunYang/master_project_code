@@ -3,7 +3,7 @@
 ### Intro to each folder
 - `code_for_pre-processing_dataset` stores the pre-processed datasets of Amazon Review, Yelp Review and Maluuba Frames, as well as codes for encoding them as vector representations
 
-- `experiment` stores the code used for generating the results in Chapter 3 and Chapter 6 of the dissertation. The two subforders `pre-processed_dataset` and `vocabulary` stores the vector representations of the datasets and the vector representation of each word in the vocabulary respectively.
+- `experiment` stores the code used for generating the results in Chapter 3 and Chapter 6 of the dissertation. The subforder `pre-processed_dataset` stores the vector representations of the datasets. The compressed file `vocabulary` stores the vector representation of each word in the vocabulary. Make sure to unzip this file before running `print_nearest_5_words.py`.
 
 - `metrics` stores the code of Extended Silhouette index, Soft BCubed metrics, Extended BCubed metrics and Purity metrics.
 
