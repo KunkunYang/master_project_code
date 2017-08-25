@@ -1,4 +1,4 @@
-## Code for the NMF for Overlapping Clustering of Customer Datasets Project
+## Code and Data for the NMF for Overlapping Clustering of Customer Datasets Project
 
 ### Intro to each folder
 - `code_for_pre-processing_dataset` stores the pre-processed datasets of Amazon Review, Yelp Review and Maluuba Frames, as well as codes for encoding them as vector representations
