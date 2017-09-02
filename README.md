@@ -13,4 +13,4 @@
 
 ### How to run
 
-Simply run each file directly using command-line interface or an IDE. Then enter corresponding dataset name, vector representation name or number of clusters as instructed by the printed message.
+Simply run each file directly using the command-line interface or an IDE. Then enter corresponding dataset name, vector representation name or number of clusters as instructed by the printed message.
