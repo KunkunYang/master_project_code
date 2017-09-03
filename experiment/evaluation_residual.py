@@ -501,8 +501,8 @@ data = np.load('pre-processed_dataset/data+label_'+file + '_' +embedding+'.npz')
 data_matrix = data['data_matrix']
 labels =  data['labels']
 
-data_matrix = data_matrix[0:50]
-labels = labels[0:50]
+#data_matrix = data_matrix[0:50]
+#labels = labels[0:50]
 
 # size
 data_size = (np.shape(data_matrix))[0]
