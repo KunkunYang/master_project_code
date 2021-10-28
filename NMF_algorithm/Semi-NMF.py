@@ -12,6 +12,13 @@ from sklearn.cluster import KMeans
 from numpy.linalg import norm
 from sklearn.metrics.pairwise import euclidean_distances
 
+def pospart(mat):
+    out = 0.5*(abs(mat) + mat)
+    return out
+
+def negpart(mat):
+    out = 0.5*(abs(mat) - mat)
+    return out
 
 def semi_NMF(X, numofcluster, numofiter, tol):
     
